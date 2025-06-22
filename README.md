@@ -2,7 +2,7 @@
 
 🚗 Over 6 years of experience in the automotive industry.
 
-🐍 1+ year of experience in Python and 💻 1+ year of experience in C++.
+🐍 1+ year of experience in Python and 💻 1 year of experience in C++.
 
 🤓 I'm automotive engineer and busness administration graduated and software developer.
 
