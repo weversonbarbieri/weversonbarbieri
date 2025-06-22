@@ -20,3 +20,5 @@
 
 [![weversonbarbieri's GitHub stats](https://github-readme-stats.vercel.app/api?username=weversonbarbieri)](https://github.com/weversonbarbieri/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weversonbarbieri)](https://github.com/weversonbarbieri/github-readme-stats)
+
