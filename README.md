@@ -1,6 +1,4 @@
-# About me
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weversonbarbieri)](https://github.com/weversonbarbieri/github-readme-stats)
+# I'm Weverson Barbieri
 
 🚗 Over 6 years of experience in the automotive industry.
 
@@ -17,4 +15,8 @@
 📚 I’m currently learning Python, C++ and software development.
 
 ⚡ Curious fact: I’m passionate about traveling the world, reading, and studying economics, investing, and geopolitics.
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weversonbarbieri)](https://github.com/weversonbarbieri/github-readme-stats)
 
