@@ -18,7 +18,7 @@
 
 
 
-<width="47%" [![weversonbarbieri's GitHub stats](https://github-readme-stats.vercel.app/api?username=weversonbarbieri)](https://github.com/weversonbarbieri/github-readme-stats)/>
+width="47%" [![weversonbarbieri's GitHub stats](https://github-readme-stats.vercel.app/api?username=weversonbarbieri)](https://github.com/weversonbarbieri/github-readme-stats)
 
-<width="47%" [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weversonbarbieri)](https://github.com/weversonbarbieri/github-readme-stats)/>
+width="47%" [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weversonbarbieri)](https://github.com/weversonbarbieri/github-readme-stats)/>
 
