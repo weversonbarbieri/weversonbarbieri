@@ -1,4 +1,4 @@
-# I'm Weverson Barbieri
+# I'm Weverson Barbieri 👋
 
 🚗 Over 6 years of experience in the automotive industry.
 
