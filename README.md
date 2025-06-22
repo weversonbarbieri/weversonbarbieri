@@ -18,5 +18,5 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weversonbarbieri)](https://github.com/weversonbarbieri/github-readme-stats)
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=weversonbarbieri)](https://github.com/weversonbarbieri"/>
 
