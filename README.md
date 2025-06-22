@@ -1,5 +1,7 @@
 # About me
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weversonbarbieri)](https://github.com/weversonbarbieri/github-readme-stats)
+
 🚗 Over 6 years of experience in the automotive industry.
 
 🐍 1+ year of experience in Python and 💻 1 year of experience in C++ with focus in embedded systems
