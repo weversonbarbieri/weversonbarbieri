@@ -1,12 +1,16 @@
 # About me
 
-🤓 I'm electrical engineer graduated and mastering student.
+🚗 Over 6 years of experience in the automotive industry.
 
-🌎 I live in Brazil and have dual citizenship, brazilian and italian.
+🐍 1+ year of experience in Python and 💻 1+ year of experience in C++.
+
+🤓 I'm automotive engineer and busness administration graduated and software developer.
+
+🌎 I live in Brazil, but I feel like a citizen of the world and global mindset.
 
 🔭 I’m currently searching a working in tech.
 
-📚 I’m currently learning Data Science, Mobile and Games.
+📚 I’m currently learning Python, C++ and software development.
 
-⚡ Curious fact:
+⚡ Curious fact: 
 
